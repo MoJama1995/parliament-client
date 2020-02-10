@@ -1,0 +1,7 @@
+.HeaderContainer {
+  grid-area: "header";
+  height: 200px;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
